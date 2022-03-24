@@ -1,0 +1,13 @@
+      INSTRUCTIONS FOR THE APPLICATION:
+      1) Introduce the data for configuring a cache and a main memory.
+      Keep in mind that all the values should be powers of 2 and the
+      address length should be at least 4.
+      2) Click the "Create" button, see how a memory is created and displayed
+      3) Now the reading and the writing buttons are enabled, you can
+      enter the read and write addresses and the write data in hexadecimal
+      format
+      4) Click "Read" or "Write" an see how the cache tables are updated
+      and the steps are described in the text box below the tables. Also in the
+      memory table the used block is highlighted
+      5) The "Flush" button deletes the content of the cache.
+
